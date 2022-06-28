@@ -11,9 +11,11 @@ VT link: https://www.virustotal.com/gui/file/592bb967d78f66bd3842aee95ffe9cfc9ba
 enjoy!
 
 # Contact:
-Matrix (discord alternative, https://element.io) : realgoblins
-Discord: RealGoblins#0568
-Discord Community: https://discord.gg/8bs9NuwNYf
+* Matrix (discord alternative, https://element.io) : realgoblins
+
+* Discord: RealGoblins#0568
+
+* Discord Community: https://discord.gg/8bs9NuwNYf
 
  
 ## Full list of features:
